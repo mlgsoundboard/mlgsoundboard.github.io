@@ -6,4 +6,3 @@ function stopAll() {
         media[i].pause();
     }
 }
-
